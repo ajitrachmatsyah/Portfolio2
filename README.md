@@ -1,10 +1,10 @@
-# Ajit Rachmatsyah Waluyo | Portfolio
+# Portfolio
 
 This is a collection of data analytics related projects that I have done. Enjoy!
 
-| Project Link | Tools | Project Description | 
+| Project Link | Area | Project Description | 
 |---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🚗 [Concrete Mixture](https://github.com/ajitrachmatsyah/Portfolio2/blob/main/Concrete.ipynb) | Phyton | Data cleaning and EDA on hundreds of concrete mixtures and test results to find out the impact of cement substitute material on its compressive strength. |
+| 🐶 [World Emission and Temperature](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | SQL | Exploring the connection between country population to its emission and global temperature by analyzing three different data sources. |
 
 ***
