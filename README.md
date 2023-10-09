@@ -1,4 +1,4 @@
-# AJIT RACHMATSYAH WALUYO | PORTFOLIO
+# Ajit Rachmatsyah Waluyo | Portfolio
 
 This is a collection of data analytics related projects that I have done. Enjoy!
 
